@@ -1,8 +1,39 @@
-## Welcome to GitHub Pages
+## Welcome to the Micro-tutoria on Creatin a Github Pages site
 
-You can use the [editor on GitHub](https://github.com/EchungYang/Micro_tutorial/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What is a Github page?
+
+GitHub Pages is a static site hosting service that takes HTML, CSS, and JavaScript files straight from a repository on GitHub, optionally runs the files through a build process, and publishes a website. 
+
+### Why a Github page?
+
+- Free
+- Good to start-with
+- Easy to share publicly or privately (although the default is open to the public)
+- Friendly with script/code/any project-based work
+- Automatically saved 
+
+
+### Why not a Github page?
+
+- Not for commercial use e.g., online business, e-commerce site
+- Not for any forms of transaction (finacially or other sensitive transactions like sending passwords)
+
+
+### Three types of Github page
+
+1. Project
+Project sites are connected to a specific project hosted on GitHub, such as a JavaScript library or a recipe collection.
+
+The below two are connected to a specific account on GitHub.com.
+
+2. User 
+  creating a resipotory under the name of `<username>.github.io`
+3. Organisation 
+  creating a resipotory under the name of `<organization>.github.io`
+  
+  Unless you want to use a custom domain
+
 
 ### Markdown
 
