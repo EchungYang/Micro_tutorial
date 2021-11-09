@@ -1,4 +1,4 @@
-## Welcome to the Micro-tutoria on Creating a Github Pages site
+## Welcome to the Micro-tutorial on Creating a Github Pages site
 
 
 ### What is a Github page?
@@ -70,6 +70,8 @@ The below two are connected to a specific account on GitHub.com.
 
 **6. Write and edit!**
 ![alt text](https://i.postimg.cc/dV9Rbp79/Screenshot-2021-11-09-at-16-16-24.png)
+
+
 
 
 ### [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#emphasis)
