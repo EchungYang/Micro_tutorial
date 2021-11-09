@@ -28,41 +28,54 @@ Project sites are connected to a specific project hosted on GitHub, such as a Ja
 The below two are connected to a specific account on GitHub.com.
 
 2. User 
-  creating a resipotory under the name of `<username>.github.io`
+  creating a repository under the name of `<username>.github.io`
 3. Organisation 
-  creating a resipotory under the name of `<organization>.github.io`
+  creating a repository under the name of `<organization>.github.io`
   
   Unless you want to use a custom domain
 
+### How to create a Github pages site?
 
-### Markdown
+**1. First of the first: get a github account of course!**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+**2. Creating a new repository**
 
-# Header 1
-## Header 2
-### Header 3
+![alt text](https://i.postimg.cc/156mWZgf/demo1.png)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+**3. Naming the repository**
+![alt text](https://i.postimg.cc/ZRVB5zPT/demo3.png)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EchungYang/Micro_tutorial/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**4. Now you have a new repo, go to the setting**
+![alt text](https://i.postimg.cc/ZRVB5zPT/demo4.png)
+
+
+
+
+**5. Choose page and select a theme**
+![alt text](https://i.postimg.cc/W1v5ZMLh/Screenshot-2021-11-09-at-16-02-23.png)
+![alt text](https://i.postimg.cc/VNTGd2Yc/demo6.png)
+
+- Amendable later on
+
+
+
+
+**6. Write and edit!**
+![alt text](https://i.postimg.cc/dV9Rbp79/Screenshot-2021-11-09-at-16-16-24.png)
+
+
+### [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#emphasis)
+### [What I did with Github pages site?](https://echungyang.github.io/Learningisfun.github.io/)
+### [Github Pages Documentation](https://docs.github.com/en/pages)
+
+
+
+
