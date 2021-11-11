@@ -1,4 +1,4 @@
-## Welcome to the Micro-tutorial on Creating a Github Pages site
+## Welcome to the Micro-tutorial on Creating a GitHub Pages site
 
 
 ### What is a Github page?
