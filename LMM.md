@@ -37,8 +37,8 @@ The reason why we call it a mixed effect is because it simultaneously includes b
 --
 ### Summary
 - LMM as an advanced stats that becomes more popular in experimental psychology, especially reaction time studies.
-- LMM avoides the multicolinearity issue and missing values, and provide estimates for individual effect.
-- It can be easily run LMM and compare models in R, making the analysis more transparent. 
+- LMM avoides the issue of multicolinearity and missing values, and provide estimates for individual effect.
+- LMM can be easily run and compared through R, making the analysis more transparent. 
 - There is no standardised practice for running LMM, you can apply it freely as long as you have justified your decision-makings.
 
 ### Recommended papers on LMM
