@@ -34,6 +34,18 @@ The reason why we call it a mixed effect is because it simultaneously includes b
 - Random effects include random intercepts and random slopes
 
 [Visualisation of fixed effect and random effect](https://journals.sagepub.com/doi/full/10.1177/2515245920960351)
+--
+### Summary
+- LMM as an advanced stats that becomes more popular in experimental psychology, especially reaction time studies.
+- LMM avoides the multicolinearity issue and missing values in repeated-measure ANOVA, and provide estimates for individual effect.
+- It can be easily run LMM and compare models in R, making the analysis more transparent. 
+- There is no standardised practice for running LMM, you can apply it freely as long as you have justified your decision-makings.
+
+### Recommended papers on LMM
+
+1. Barr, D. J. (2013). Random effects structure for testing interactions in linear mixed-effects models. *Frontiers in psychology*, 4, 328.
+2. Brown, V. A. (2021). An Introduction to Linear Mixed-Effects Modeling in R. *Advances in Methods and Practices in Psychological Science*, 4(1), 2515245920960351.
+3. Meteyard, L., & Davies, R. A. (2020). Best practice guidance for linear mixed-effects models in psychological science. *Journal of Memory and Language*, 112, 104092.
 
 
 
